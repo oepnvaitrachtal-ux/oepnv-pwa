@@ -1,6 +1,6 @@
 {
   "name": "ÖPNV Aitrachtal Problemtracker",
-  "short_name": "ÖPNV",
+  "short_name": "ÖPNV Tracker",
   "start_url": "/index.php",
   "scope": "/",
   "display": "standalone",
